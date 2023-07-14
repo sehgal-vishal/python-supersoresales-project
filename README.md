@@ -1,3 +1,3 @@
-# python-supersoresales-project
+# python-superstoresales-project
 This is my python superstore sales data analysis project. 
 The Python Superstore Sales project involved conducting exploratory analysis and visualization using Plotly Express to analyze sales data from a fictional superstore. Through thorough data exploration and preprocessing, key insights were uncovered regarding the sales performance of the superstore. Utilizing Plotly Express, a powerful Python library for visualization, various interactive and visually appealing charts were created, such as bar charts, line plots, and scatter plots. These visualizations effectively showcased sales patterns, identified top-selling product categories, high-performing regions, and customer segments with significant purchasing power. The project outcomes provide actionable insights for optimizing sales strategies and improving overall performance.
